@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ideaNote</string>
+    <string name="title_activity_main">ideaNote</string>
+    <string name="package_name">work.korange.ideanote</string>
+    <string name="custom_url_scheme">work.korange.ideanote</string>
+</resources>
