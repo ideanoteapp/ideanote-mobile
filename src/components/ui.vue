@@ -1139,6 +1139,7 @@ export default {
     },
     readNote(notee, md = false) {
       this.show = 2
+      this.opening = ""
       this.editor = ""
       this.textarea = ""
       const elements = document.querySelectorAll(".EasyMDEContainer");
